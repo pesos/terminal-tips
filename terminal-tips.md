@@ -83,6 +83,14 @@ tar --transform "s, ^, $PKGNAME-$VERSION/, S" -czpf "$PKGNAME-$VERSION.tar.gz" -
 
 ---
 
+**Tip**: `tar -tf PACKAGE.tar.gz | grep -o '^[^/]\+' | sort -u]`
+
+**Description**: Gives the names of the files in the topmost directory packaged
+in the provided archive. Useful when there is only one directory in the archive
+and you want to know the name of it without extracting the contents.
+
+---
+
 
 
 Contributers
