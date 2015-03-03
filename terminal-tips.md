@@ -91,6 +91,15 @@ and you want to know the name of it without extracting the contents.
 
 ---
 
+**Tip** : `ALT + "."`
+
+**Description**: Gives the Last word of the previous command.
+
+---
+
+**Tip**: `!!`
+
+**Description**: Replaces "!!" with the last command.
 
 
 Contributers
@@ -98,3 +107,4 @@ Contributers
 
 * [Sandeep Raju](http://github.com/sandeepraju/)
 * [Nitheesh K L](http://github.com/nitheeshkl/)
+* [Karthik Nayak](http://github.com/KarthikNayak/)
