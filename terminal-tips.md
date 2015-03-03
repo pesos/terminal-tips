@@ -105,6 +105,7 @@ and you want to know the name of it without extracting the contents.
 Contributers
 ============
 
+* [Pradeep Nayak](https://github.com/pradeep1288/)
 * [Sandeep Raju](http://github.com/sandeepraju/)
 * [Nitheesh K L](http://github.com/nitheeshkl/)
 * [Karthik Nayak](http://github.com/KarthikNayak/)
